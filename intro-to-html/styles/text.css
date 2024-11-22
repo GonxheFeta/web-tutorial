@@ -1,0 +1,51 @@
+.video-tittle{
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: 18px;
+  width: 300px;
+  line-height: 24px;
+  margin-bottom: 5;
+  
+  }
+  .months{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color:rgb(96, 96, 96);
+    margin-top: 0;
+  }
+  
+  .Marques{
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgb(96, 96, 96);
+    font-size: 14px;
+    margin-bottom: 20;
+  
+  }
+  .AI{
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgb(96, 96, 96);
+    font-size: 14px;
+    width: 270px;
+    line-height: 20px;
+    margin-top: 0;
+    margin-bottom: 100px;
+  }
+  .apple{
+    margin-bottom: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    background-color:rgb(227, 65, 64) ;
+    color: white;
+    text-align: center;
+    padding-top: 18px;
+    padding-bottom: 18px;
+    
+  
+  }
+  .span{
+    cursor: pointer;
+  }
+  .span:hover{
+    text-decoration: underline;
+  }
+  
